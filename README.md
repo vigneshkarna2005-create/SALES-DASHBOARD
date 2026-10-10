@@ -64,4 +64,4 @@ Microsoft Excel: Pivot Tables, Formulas, Charts, Slicers
 - `Sales Dashboard Project.png`: dashboard preview
 
 ## Contact
-Vignesh K | vigneshkarna2005@gmail.com | [LinkedIn link]
+Vignesh K | vigneshkarna2005@gmail.com | [LinkedIn](https://www.linkedin.com/in/vignesh-k-a46146368)
