@@ -4,7 +4,7 @@ Interactive Excel dashboard analyzing sales, profit and regional performance.
 
 
 
-![Sales Dashboard](sales%20dashboard.png)
+![Sales Dashboard](Sales%20Dashboard%20Project.png)
 
 
 
@@ -61,7 +61,7 @@ Microsoft Excel: Pivot Tables, Formulas, Charts, Slicers
 
 ## Files
 - `SALES DASHBOARD PROJECT.xlsx`: full workbook with dashboard, pivot tables and data
-- `sales dashboard.png`: dashboard preview
+- `Sales Dashboard Project.png`: dashboard preview
 
 ## Contact
 Vignesh K | vigneshkarna2005@gmail.com | [LinkedIn link]
